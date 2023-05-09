@@ -3,6 +3,7 @@ import Box1 from "@/app/components/Box1";
 import Box2 from "@/app/components/Box2";
 import Box3 from "@/app/components/Box3";
 import Box4 from "@/app/components/Box4";
+import Box5 from "@/app/components/Box5";
 
 export default function Home() {
   return (
@@ -16,6 +17,8 @@ export default function Home() {
           <Box3 />
 
           <Box4 />
+
+          <Box5 />
         </div>
       </div>
     </>
