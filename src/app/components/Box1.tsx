@@ -33,7 +33,7 @@ const Box1 = () => {
         </p>
 
         {/*small text*/}
-        <p className="mt-6 opacity-50">
+        <p className="mt-6 opacity-50 line-clamp-6">
           {`"I was an EMT for many years before I joined the bootcamp. I've been
           looking to make a transition and have heard some people who had an
           amazing experience here. I signed up for the free intro course and

@@ -8,7 +8,7 @@ const Box3 = () => {
         <div className="flex space-x-4">
           <img
             src={Kira.src}
-            alt="box1-img"
+            alt="box3-img"
             className="w-10 h-10 rounded-full ring-2 ring-purple-300"
           />
           <div className="text-sm">

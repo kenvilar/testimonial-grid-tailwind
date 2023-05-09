@@ -9,7 +9,7 @@ const Box2 = () => {
         <div className="flex space-x-4">
           <img
             src={Jonathan.src}
-            alt="box1-img"
+            alt="box2-img"
             className="w-10 h-10 rounded-full ring-2 ring-purple-300"
           />
           <div className="text-sm">
@@ -24,7 +24,7 @@ const Box2 = () => {
         </p>
 
         {/*small text*/}
-        <p className="mt-6 opacity-50">
+        <p className="mt-6 opacity-50 line-clamp-5">
           {`"I started as a total newbie with virtually no coding skills. I now
           work as a mobile engineer for a big company. This was one of the best
           investments I've made in myself. Lorem ipsum dolor sit amet
