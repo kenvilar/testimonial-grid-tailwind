@@ -5,7 +5,7 @@ import Ken from "@/app/images/image-ken.jpg";
 const Box1 = () => {
   return (
     <>
-      <div className="relative p-10 rounded-xl bg-purple-700">
+      <div className="relative p-10 rounded-xl bg-purple-700 md:col-span-2">
         <Image
           src={Quotation}
           alt="logo"

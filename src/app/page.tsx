@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <>
       <div className="container mx-auto max-w-7xl p-2 md:p-10">
-        <div className="text-white">
+        <div className="grid gap-6 grid-cols-1 text-white md:grid-cols-4 md:grid-rows-2">
           <Box1 />
 
           <Box2 />
