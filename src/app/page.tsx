@@ -4,6 +4,7 @@ import Box2 from "@/app/components/Box2";
 import Box3 from "@/app/components/Box3";
 import Box4 from "@/app/components/Box4";
 import Box5 from "@/app/components/Box5";
+import Box6 from "@/app/components/Box6";
 
 export default function Home() {
   return (
@@ -19,6 +20,8 @@ export default function Home() {
           <Box4 />
 
           <Box5 />
+
+          <Box6 />
         </div>
       </div>
     </>
